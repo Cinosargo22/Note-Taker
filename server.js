@@ -21,5 +21,5 @@ app.use('/', htmlRoutes);
 
 
 app.listen(PORT, () => {
-    console.log('App listening on ${PORT}')
+    console.log('Listening to http://localhost:3001');
 });
